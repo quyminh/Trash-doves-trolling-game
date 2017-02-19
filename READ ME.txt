@@ -1,1 +1,0 @@
-Executable file only readable on Windows. You have to use Game Maker player to open otherwise
